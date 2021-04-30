@@ -3,9 +3,8 @@
 ###
 1. Tibame class test
 2. github practice
-3. test_test1
-
-###
+3. test_test
+=======
 - bulleted1
 - bulleted2
   > 1. sublist
